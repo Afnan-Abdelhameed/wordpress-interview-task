@@ -60,7 +60,7 @@ This task is meant to measure needed job skills and it is a part of the hiring e
 
 # Notes
 * Using [Bedrock](https://roots.io/bedrock/) is a must.
-* Using [Docker](https://www.docker.com/) is a plus.
+* Using [Docker](https://www.docker.com/) is a must.
 * We expect code to be clean, meet standards, and be well documented.
 
 
